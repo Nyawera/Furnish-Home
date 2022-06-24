@@ -1,0 +1,243 @@
+body {
+    background-color: #475361;
+    overflow-x: hidden;
+
+}
+
+.navbar ul {
+    display: flex;
+    float: right;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+.navbar ul a {
+    text-decoration: none;
+    padding: 10px 10px;
+    color: aliceblue;
+
+
+}
+
+.header {
+    float: left;
+    padding: 8%;
+    padding-top: 0%;
+    margin-top: -5.5%;
+
+    color: aliceblue;
+    /* padding-right: -50%;
+    margin-bottom: 70%;
+    margin-left: -310%; */
+}
+
+.About {
+    background-color: white;
+    width: 57%;
+    height: 650px;
+    color: black;
+    padding-left: 43%;
+    
+}
+
+.About h2 {
+    /* padding-right: 50%;
+    margin-left: -70%;
+     */
+     text-align: center;
+     margin-right: 77%;
+    
+        
+}
+
+.About p {
+    /* margin-left: -45%; */
+    text-align: center;
+    margin-right: 70%;
+    
+
+}
+
+.img1 {
+    padding-top: -30px;
+    padding-left: -70px;
+    padding-bottom: 10%;
+
+
+}
+
+.img2 {
+    display: flex;
+    margin-left: 50%;
+    padding-top: -100%;
+    /* width: 50%; */
+    margin-top: -550px;
+    padding-top: 70px;
+}
+
+.img3 {
+    margin-left: -45%;
+    margin-top: -65%;
+    
+
+}
+
+.gallery {
+    background-color: white;
+    /* padding-left: 500px; */
+    padding-right: 670px;
+    margin-right: 120px;
+    padding-left: 390px;
+    margin-left: -455px;
+    text-align: center;
+
+
+
+}
+
+.gallery h1 {
+    text-align: center;
+    padding-left: 100px;
+}
+
+.img4 {
+    padding-right: 100px;
+    padding-left: -50;
+}
+
+.img4 {
+    width: 200%;
+    padding-left: -100px;
+    margin-left: -300px;
+    border: 1px white;
+
+}
+
+.img5 {
+    margin-top: -340px;
+}
+
+.img6 {
+    /* margin-left: 200px; */
+    margin-right: -810px;
+    margin-top: -355px;
+    border: 25px white;
+    padding: 10px 10px;
+
+}
+
+.img7 {
+    margin-left: -350px;
+    border: 1px white;
+}
+
+.img8 {
+    margin-top: -300px;
+    width: 200px;
+    border: 1px white;
+}
+
+.img9 {
+
+    border: 1px white;
+    margin-right: -815px;
+    margin-top: -265px;
+}
+
+.contact {
+    background-color: white;
+     padding-left: 500px; 
+     padding-right: 67%;
+    margin-right: -1%;
+    padding-left: 390px;
+    margin-left: -75%;
+    text-align: center; 
+ 
+} 
+
+ .contact h1 {
+    margin-left: 19%;
+    margin-right: -9%;
+}
+
+.contact h2 {
+    margin-left: -250%;
+} 
+
+.contact h3 {
+    margin-left: -910px; 
+
+}
+
+/* form {
+    margin-left: auto; */ 
+    /* padding-right: 500px; */
+    /* margin-right: auto;
+    margin-left: -300%;
+    border-radius: 30%;
+    
+} */
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px grey; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    background-color: #BFD3D6;
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+     /* Allow the user to vertically resize the textarea (not horizontally) */
+    
+  }
+  
+  /* Style the submit button with a specific background color etc */
+  /* input .submit{
+    background-color: black;
+    color: white;
+    margin-bottom: 20%;
+    margin-right: 550%;
+
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px; */
+    /* cursor: pointer; */
+    
+    
+  /* } */
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+  input[type=submit]:hover {
+    background-color:black;
+    
+  }
+  
+  /* Add a background color and some padding around the form */
+  .container {
+    border-radius: 5px;
+    /* background-color: #f2f2f2; */
+    padding: 20px;
+    margin-left: -135%;
+    /* background-color: white; */
+    width: 180%;
+    margin-bottom: 75%;
+    
+  }
+  .img10{
+      /* margin-left: 50%;
+      margin-right: -450px;
+      margin-top: -200px;
+      padding-top: -150%;
+       */
+    
+       margin-right: -500px;
+       margin-top: -600px;
+       box-shadow: 10% 10% 10% 10%;
+       /* border: 25px white; */
+       /* padding: 10px 10px; */
+      
+      
+      /* margin-right: -210%;
+      margin-top: -900%; */
+  }
+  
